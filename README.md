@@ -9,8 +9,8 @@
 
 # Resources
 
-- [docs](https://harpie.gitbook.io/welcome-to-the-harpie-docs)
-- [contracts](https://github.com/Harpieio/contracts)
+- [Docs](https://harpie.gitbook.io/welcome-to-the-harpie-docs)
+- [Harpie Contracts](https://github.com/Harpieio/contracts)
 
 # Audit scope
 
