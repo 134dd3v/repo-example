@@ -1,7 +1,7 @@
 {
   "title": "Harpie",
-  "starts_at": "15-09-2022 15:00",
-  "ends_at": "18-09-2022 21:00",
+  "starts_at": "2022-09-15 15:00",
+  "ends_at": "2022-09-18 21:00",
   "prize_pool": "8000",
   "short_description": "Harpie is the first on-chain firewall preventing hacks, scams, and theft. Harpie services monitor pending transactions for potential attacks.",
   "sponsor": "Harpie",
