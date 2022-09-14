@@ -10,9 +10,14 @@
 # Resources
 
 - [Docs](https://harpie.gitbook.io/welcome-to-the-harpie-docs)
-- [Harpie Contracts](https://github.com/Harpieio/contracts)
+- [Harpie Contracts @ 97083d](https://github.com/Harpieio/contracts/tree/97083d7ce8ae9d85e29a139b1e981464ff92b89e)
 
 # Audit scope
+
+The following contracts in the [Harpie Contracts @ 97083d](https://github.com/Harpieio/contracts/tree/97083d7ce8ae9d85e29a139b1e981464ff92b89e) repo are in scope.
+
+- `Transfer.sol`
+- `Vault.sol`
 
 # About Harpie
 
