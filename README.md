@@ -11,6 +11,7 @@
 
 - [Docs](https://harpie.gitbook.io/welcome-to-the-harpie-docs)
 - [Harpie Contracts @ 97083d](https://github.com/Harpieio/contracts/tree/97083d7ce8ae9d85e29a139b1e981464ff92b89e)
+- [Smart Contract Overview](https://harpie.notion.site/Smart-Contract-Overview-b95414ffafe243519eda539606c3f982)
 
 # Audit scope
 
