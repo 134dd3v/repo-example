@@ -37,3 +37,12 @@ DeFi Protocols used:
 - Aave (for borrowing assets to short)
 - Balancer (for leveraging Aave borrow)
 - Uniswap (for swapping)
+
+## Steps to run the tests:
+
+Node v16, Hardhat v2.11
+
+1. Clone the repo
+2. `yarn install`
+3. Create .env file with env var `ALCHEMY_KEY` (use http://alchemy.com)
+4. `yarn test`
