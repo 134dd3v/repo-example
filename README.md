@@ -37,4 +37,3 @@ DeFi Protocols used:
 - Aave (for borrowing assets to short)
 - Balancer (for leveraging Aave borrow)
 - Uniswap (for swapping)
-- Curve (for swapping)
