@@ -44,5 +44,6 @@ Node v16, Hardhat v2.11
 
 1. Clone the repo
 2. `yarn install`
-3. Create .env file with env var `ALCHEMY_KEY` (use http://alchemy.com)
-4. `yarn test`
+3. `yarn patch-package`
+4. Create .env file with env var `ALCHEMY_KEY` (use http://alchemy.com)
+5. `yarn test`
